@@ -23,12 +23,4 @@ Este proyecto es una aplicación web hecha con Streamlit para echarle un ojo al 
 
 * Los datasets de `student-mat.csv` y `student-por.csv` son cortesía del UCI Machine Learning Repository ([https://archive.ics.uci.edu/dataset/320/student+performance](https://archive.ics.uci.edu/dataset/320/student+performance)). 
 
-## 💡 ¿Tienes ideas o encontraste algún error?
 
-¡Las contribuciones son bienvenidas! Si ves algo que se puede mejorar o encuentras algún fallo, no dudes en abrir un "issue" o enviar un "pull request". ¡Tu ayuda es genial! 👍
-
-## 📜 Licencia
-
-[Aquí podrías poner información sobre la licencia si decides usar una.]
-
-¡Espero que disfrutes explorando los datos! 😊
