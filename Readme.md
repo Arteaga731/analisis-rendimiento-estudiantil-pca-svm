@@ -19,36 +19,9 @@ Este proyecto es una aplicación web hecha con Streamlit para echarle un ojo al 
 * `student-mat.csv`: Los datos de rendimiento en la clase de Matemáticas. 🍎
 * `student-por.csv`: Los datos de rendimiento en la clase de Portugués. 🇵🇹
 
-## 🚀 ¿Quieres probarlo? ¡Aquí te digo cómo!
-
-1.  **Clona el repositorio:** Copia esto en tu terminal:
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd analisis-rendimiento-estudiantil-pca-svm
-    ```
-2.  **Instala lo necesario:** Ejecuta esto para instalar las librerías:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **¡A correr!** Abre la aplicación con este comando:
-    ```bash
-    streamlit run app.py
-    ```
-
-    Se abrirá una página web en tu navegador con la aplicación. ¡A explorar! 🗺️
-
-## 🛠️ ¿Qué se usó para construir esto?
-
-* `streamlit` 🎈
-* `pandas` 🐼
-* `scikit-learn` 🤖
-* `numpy` <0xF0><0x9F><0xAB><0x96>
-* `matplotlib` 📊
-* `seaborn` 🌊
-
 ## 🙏 ¡Gracias por los datos!
 
-* Los datasets de `student-mat.csv` y `student-por.csv` son cortesía del UCI Machine Learning Repository ([https://archive.ics.uci.edu/dataset/320/student+performance](https://archive.ics.uci.edu/dataset/320/student+performance)). ¡Un aplauso para ellos! 👏
+* Los datasets de `student-mat.csv` y `student-por.csv` son cortesía del UCI Machine Learning Repository ([https://archive.ics.uci.edu/dataset/320/student+performance](https://archive.ics.uci.edu/dataset/320/student+performance)). 
 
 ## 💡 ¿Tienes ideas o encontraste algún error?
 
